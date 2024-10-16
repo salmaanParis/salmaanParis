@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman paris</h1>
-<h3 align="center">👨‍💻 Self-taught Fullstack Developer from Trivandrum, Kerala. With two years of experience, I build scalable solutions and write code cleaner than my room! Always on the hunt for new skills and ready to code my way into your heart (or project)! 😄🚀</h3>
+<h3 align="center">👨‍💻 Self-taught Fullstack Developer . I build scalable solutions and write code cleaner than my room! Always on the hunt for new skills and ready to code my way into your heart (or project)! 😄🚀</h3>
 
 - 🔭 I’m currently working on **Ecommerce**
 
